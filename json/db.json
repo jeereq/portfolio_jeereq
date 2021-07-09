@@ -1,0 +1,55 @@
+{
+	"works": [
+		{
+			"id": 1,
+			"href": "https://jeereq.netlify.app/",
+			"title": "site ulistrative d'un cv en ligne",
+			"src": "icon/Screenshot from 2021-03-23 07-40-32.png",
+			"alt": "site ulistrative d'un cv en ligne",
+			"title_card": "curruculum vitae",
+			"resume": "page static faisant presentant un freelance developper et ui / ux Designer"
+		},
+		{
+			"id": 2,
+			"href": "https://kda-by-jeereq.netlify.app/",
+			"title": "copie du site officiel de la kd",
+			"src": "icon/Screenshot from 2021-03-23 07-47-56.png",
+			"alt": "copie du site officiel de la kd",
+			"title_card": "kinshasa digital",
+			"resume": "copie du site officielle de la kinshasa digital en date du 20fevrier 2021 dans le cadre de la formation a la kinshasa digital academy"
+		},
+		{
+			"id": 3,
+			"href": "https://jeereq.netlify.app/",
+			"title": "site ulistrative d'un cv en ligne",
+			"src": "icon/Screenshot from 2021-03-23 07-40-32.png",
+			"alt": "site ulistrative d'un cv en ligne",
+			"title_card": "curruculum vitae",
+			"resume": "page static faisant presentant un freelance developper et ui / ux Designer"
+		}
+	],
+	"Identite": {
+		"name": "jeereq ",
+		"image_src": "icon/daenerys-targ.jpeg",
+		"image_alt": "image de jeereq",
+		"email": "mailto:mingandajeereq@gmail.com"
+	},
+	"competences": [
+		{
+			"id": 1,
+			"name": "ui designer",
+			"capacite": "70%"
+		},
+		{
+			"id": 2,
+			"name": "ux designer",
+			"capacite": "60%"
+		},
+		{
+			"id": 3,
+			"name": "full stack developper",
+			"capacite": "60%"
+		}
+	],
+	"keyWord": ["ui", "ux", "jeereq", "full stack"]
+}
